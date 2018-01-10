@@ -21,7 +21,7 @@
 > 美其名曰："practice makes perfect."  
 > 为何今不如古？  
 > 非也非也，  
-> 科举为国取士，LeetCode为Google筛码工，各取所需也。  
+> 科举为国取士，LeetCode 为 Google 筛码工，各取所需也。  
 
 
 ## Easy
@@ -70,6 +70,7 @@
 | 2    | [Add Two Numbers][002]                   | Linked List, Math                |
 | 3    | [Longest Substring Without Repeating Characters][003] | Hash Table, Two Pointers, String |
 | 5    | [Longest Palindromic Substring][005]     | String                           |
+| 6    | [ZigZag Conversion][006]                 | String                           |
 | 8    | [String to Integer (atoi)][008]          | Math, String                     |
 | 15   | [3Sum][015]                              | Array, Two Pointers              |
 | 17   | [Letter Combinations of a Phone Number][017] | String, Backtracking             |
@@ -138,6 +139,7 @@
 [002]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/002/README.md
 [003]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/003/README.md
 [005]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/005/README.md
+[006]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/006/README.md
 [008]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/008/README.md
 [015]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/015/README.md
 [017]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/017/README.md

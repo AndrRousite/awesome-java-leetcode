@@ -21,7 +21,7 @@ Your function should return length = 2, with the first two elements of nums bein
 
 ## 思路
 
-题意是移除数组中值等于`val`的元素，并返回之后数组的长度，并且题目中指定空间复杂度为O(1)，我的思路是用`tail`标记尾部，遍历该数组时当索引元素不等于`val`时，`tail`加一，尾部指向当前元素，最后返回`tail`即可。
+题意是移除数组中值等于 `val` 的元素，并返回之后数组的长度，并且题目中指定空间复杂度为 O(1)，我的思路是用 `tail` 标记尾部，遍历该数组时当索引元素不等于 `val` 时，`tail` 加一，尾部指向当前元素，最后返回 `tail` 即可。
 
 ```java
 class Solution {
@@ -40,7 +40,7 @@ class Solution {
 
 ## 结语
 
-如果你同我一样热爱数据结构、算法、LeetCode，可以关注我GitHub上的LeetCode题解：[awesome-java-leetcode][ajl]
+如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-java-leetcode][ajl]
 
 
 

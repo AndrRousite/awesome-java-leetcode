@@ -11,7 +11,7 @@ For this problem, a height-balanced binary tree is defined as a binary tree in w
 
 ## 思路
 
-题意是判断一棵二叉树是否是高度平衡的，所谓二叉树高度平衡指的是二叉树的每个节点的两棵子树的高度差都不超过1，那么我们只需计算左右子树的高度，判断其高度差是否不超过1即可，如果超过1，就代表其不是高度平衡的，立即返回不是即可，我这里用返回`-1`代表不是。
+题意是判断一棵二叉树是否是高度平衡的，所谓二叉树高度平衡指的是二叉树的每个节点的两棵子树的高度差都不超过 1，那么我们只需计算左右子树的高度，判断其高度差是否不超过 1 即可，如果超过 1，就代表其不是高度平衡的，立即返回不是即可，我这里用返回 `-1` 代表不是。
 
 ```java
 /**
@@ -43,7 +43,7 @@ class Solution {
 
 ## 结语
 
-如果你同我一样热爱数据结构、算法、LeetCode，可以关注我GitHub上的LeetCode题解：[awesome-java-leetcode][ajl]
+如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-java-leetcode][ajl]
 
 
 

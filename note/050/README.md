@@ -23,7 +23,7 @@ Output: 9.26100
 
 ## 思路
 
-题意是让你计算`x^n`，如果直接计算肯定会超时，那么我们可以想到可以使用二分法来降低时间复杂度。
+题意是让你计算 `x^n`，如果直接计算肯定会超时，那么我们可以想到可以使用二分法来降低时间复杂度。
 
 ```java
 class Solution {
@@ -45,7 +45,7 @@ class Solution {
 
 ## 结语
 
-如果你同我一样热爱数据结构、算法、LeetCode，可以关注我GitHub上的LeetCode题解：[awesome-java-leetcode][ajl]
+如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-java-leetcode][ajl]
 
 
 
